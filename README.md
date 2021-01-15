@@ -1,5 +1,3 @@
-# Credit-Card-data-Science-Mini-Project
-
 # Credit Card Data Science Mini Project
 
 <h4>Problem Statement:</h4>
